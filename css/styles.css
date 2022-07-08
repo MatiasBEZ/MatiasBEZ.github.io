@@ -493,6 +493,10 @@ progress {
   font-weight: 300;
 }
 
+.divicons {
+  text-align: center;
+}
+
 .display-1 {
   font-size: calc(1.625rem + 4.5vw);
   font-weight: 300;
